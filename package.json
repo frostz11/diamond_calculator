@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+  "dependencies": {
+    "typescript": "^4.9.5"
+=======
   "name": "diamond-calculator",
   "version": "1.0.0",
   "private": true,
@@ -50,5 +54,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+>>>>>>> 93e1d6592a55b86750df4b7384d48e1c5512fbd3
   }
 }
