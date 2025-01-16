@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "typescript": "^4.9.5"
-=======
   "name": "diamond-calculator",
   "version": "1.0.0",
   "private": true,
@@ -10,10 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "react-dev": "react-scripts start",
-    "react-build": "react-scripts build",
-    "react-test": "react-scripts test"
+    "lint": "next lint"
   },
   "dependencies": {
     "@radix-ui/react-select": "^2.1.4",
@@ -22,7 +15,7 @@
     "clsx": "^2.1.1",
     "geist": "^1.3.1",
     "lucide-react": "^0.471.0",
-    "next": "^15.1.4",
+    "next": "^14.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwind-merge": "^2.6.0",
@@ -54,6 +47,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 93e1d6592a55b86750df4b7384d48e1c5512fbd3
   }
 }
